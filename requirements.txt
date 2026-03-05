@@ -1,4 +1,4 @@
 flask
-google-genai
+google-generativeai
 fpdf
 python-dotenv
